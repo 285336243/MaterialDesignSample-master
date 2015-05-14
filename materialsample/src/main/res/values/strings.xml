@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drawer_items">
+        <item>HEADER</item>
+        <item>{fa-home} Home</item>
+        <item>{fa-heart} Favorite</item>
+        <item>{fa-calendar} Whats new?</item>
+        <item>{fa-gear} Setting</item>
+        <item>{fa-share-alt} Love this app?</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="app_name">Material Design</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
